@@ -21,16 +21,16 @@ function (currentColor){
 }
 ```
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Input | Output    |
+| ----- | ----------|
+| red   | {'green'} |  
+| green | {'yellow'}| 
+| blue  | undefined | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td> If the input color is green, yellow, or red the output will return yellow, red, or green color. If the input does not one of the 3 colors the output wil return as undefined.</td>
   </tr>
 </table>
 
