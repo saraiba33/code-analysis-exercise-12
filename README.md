@@ -23,8 +23,8 @@ function (currentColor){
 
 | Input | Output    |
 | ----- | ----------|
-| red   | {'green'} |  
-| green | {'yellow'}| 
+| red   | 'green' |  
+| green | 'yellow'| 
 | blue  | undefined | 
 
 <table>
